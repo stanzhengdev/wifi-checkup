@@ -43,7 +43,7 @@ ptyprocess==0.5.2
 pyasn1==0.4.3
 pyasn1-modules==0.2.1
 pycurl==7.43.0
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.22.0
 python-apt==1.4.0b3
 pytz==2018.4
